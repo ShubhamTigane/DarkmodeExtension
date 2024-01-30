@@ -1,0 +1,24 @@
+{
+  "name": "MyDarkMode",
+  "description": "Light to Dark Mode and Vice-Versa",
+  "version":"1.0.0",
+  "manifest_version":3,
+
+  "action":
+  {
+      "default_title":"MyDarkMode",
+      "default_popup":"popup.html"
+  },
+  "permissions":[
+   
+    
+    "activeTab",
+    "scripting",
+    "tabs"
+    
+   
+  ]
+
+
+
+}
